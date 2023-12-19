@@ -22,7 +22,7 @@ After creating an instance of Mongo Client and confirming the correct databases 
 ## 3. Update the new restaurant with the BusinessTypeID you found.
 <img width="718" alt="Screenshot 2023-12-19 at 2 48 53 PM" src="https://github.com/samkimmmm/nosql-challenge/assets/135805393/c294b9ca-0db2-4373-8951-25c192088d84">
 
-## 4. The magazine is not interested in any establishments in Dover, so check how many documents contain the Dover Local Authority. Then, remove any establishments within the Dover Local Authority from the database, and check the number of documents to ensure they were deleted. The results were saved into a Pandas DataFrame.
+## 4. The magazine is not interested in any establishments in Dover, so check how many documents contain the Dover Local Authority. Then, remove any establishments within the Dover Local Authority from the database, and check the number of documents to ensure they were deleted.
 <img width="494" alt="Screenshot 2023-12-19 at 2 49 54 PM" src="https://github.com/samkimmmm/nosql-challenge/assets/135805393/d36b3def-ec67-4995-9f83-9b69e125d2e5">
 
 ## 5. Some of the number values are stored as strings, when they should be stored as numbers.
