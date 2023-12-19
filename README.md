@@ -13,10 +13,10 @@ After creating an instance of Mongo Client and confirming the correct databases 
 <img width="324" alt="Screenshot 2023-12-19 at 2 46 09 PM" src="https://github.com/samkimmmm/nosql-challenge/assets/135805393/11cc30e3-d48d-48cd-ade0-ec40de1edfac">
 
 # Part 2: Update the Database
-1. In the "establishments" collection, there was additional information of a specific restaurant that need to be added:
+## 1. In the "establishments" collection, there was additional information of a specific restaurant that need to be added:
 <img width="511" alt="Screenshot 2023-12-19 at 2 47 25 PM" src="https://github.com/samkimmmm/nosql-challenge/assets/135805393/588d8c1c-665b-49ca-9bb7-e79a65a9df0b">
 
-2. Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the BusinessTypeID and BusinessType fields.
+## 2. Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the BusinessTypeID and BusinessType fields.
 <img width="876" alt="Screenshot 2023-12-19 at 2 48 42 PM" src="https://github.com/samkimmmm/nosql-challenge/assets/135805393/d21ca938-44bd-4bba-8631-c5699dd751f0">
 
 3. Update the new restaurant with the BusinessTypeID you found.
