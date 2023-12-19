@@ -1,4 +1,4 @@
-# nosql-challenge - Module 12 Challenge
+# UK Foods Rating
 
 # Overview
 In this challenge, I conducted a comprehensive evaluation of the ratings data from the UK Food Standards Agency.
