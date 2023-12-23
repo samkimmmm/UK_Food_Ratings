@@ -10,6 +10,7 @@ In this challenge, I conducted a comprehensive evaluation of the ratings data fr
 
 # Part 1: Database and Jupyter Notebook Set Up
 After establishing a Mongo Client instance and verifying databases and collections, I assigned the "establishments" collection to a variable for future use.
+
 <img width="324" alt="Screenshot 2023-12-19 at 2 46 09 PM" src="https://github.com/samkimmmm/nosql-challenge/assets/135805393/11cc30e3-d48d-48cd-ade0-ec40de1edfac">
 
 # Part 2: Update the Database
